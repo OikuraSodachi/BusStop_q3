@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_end.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_start_end_recycler.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\start_end_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_bus_arrive.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_bus_arrive.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_start.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_busarrive_recycler.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\busarrive_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todokanai.busstop.app-merged_res-58:/layout_fragment_end.xml.flat",
+        "source": "com.todokanai.busstop.app-main-60:/layout/fragment_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_start_end_option.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_start_end_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-merged_res-58:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\bh951\\.gradle\\daemon\\7.4\\com.todokanai.busstop.app-main-60:\\layout\\fragment_main.xml"
+    }
+]

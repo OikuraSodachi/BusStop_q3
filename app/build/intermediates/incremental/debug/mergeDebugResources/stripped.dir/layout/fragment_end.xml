@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    
+                 
+                              
+                                                                         
+
+           
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#4E2A2A"
+        tools:context=".fragment.startend.EndFragment" android:tag="layout/fragment_end_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/endRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+         
